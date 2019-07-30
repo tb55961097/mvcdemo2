@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="" />
+    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,7 +151,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.47471264" />
-    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.3406157" />
   </component>
   <component name="RunDashboard">
@@ -326,7 +328,7 @@
       <workItem from="1563850806533" duration="73000" />
       <workItem from="1564368134526" duration="3675000" />
       <workItem from="1564385799067" duration="181000" />
-      <workItem from="1564452295818" duration="2083000" />
+      <workItem from="1564452295818" duration="3033000" />
     </task>
     <task id="LOCAL-00001" summary="demo.java">
       <created>1564368702674</created>
@@ -370,13 +372,20 @@
       <option name="project" value="LOCAL" />
       <updated>1564454118582</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="demo.java">
+      <created>1564454526300</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564454526300</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers>
       <Gitlab url="https://git.lug.ustc.edu.cn/tb55961097" />
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18171000" />
+    <option name="totallyTimeSpent" value="19121000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -390,7 +399,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2159383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2159383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,7 +416,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994187" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994187" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.33575583" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
