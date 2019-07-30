@@ -6,59 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/classes/META-INF/mvcdemo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/classes/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/bonecp-0.8.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-chain-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-validator-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.1.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/httpmime-4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jasypt-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.35.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/oro-2.0.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/poi-3.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-3.1.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/sslext-1.2-0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/struts-core-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/struts-taglib-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/struts-tiles-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/velocity-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/velocity-tools-2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvcdemo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,10 +23,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="30">
+              <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding>
-                <element signature="e#63#64#0" expanded="true" />
                 <element signature="e#106#107#0" expanded="true" />
               </folding>
             </state>
@@ -379,7 +326,7 @@
       <workItem from="1563850806533" duration="73000" />
       <workItem from="1564368134526" duration="3675000" />
       <workItem from="1564385799067" duration="181000" />
-      <workItem from="1564452295818" duration="1468000" />
+      <workItem from="1564452295818" duration="1763000" />
     </task>
     <task id="LOCAL-00001" summary="demo.java">
       <created>1564368702674</created>
@@ -409,13 +356,20 @@
       <option name="project" value="LOCAL" />
       <updated>1564370255108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="demo.java">
+      <created>1564453791728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564453791728</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <Gitlab />
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17556000" />
+    <option name="totallyTimeSpent" value="17851000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -497,10 +451,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="30">
+          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding>
-            <element signature="e#63#64#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
           </folding>
         </state>
