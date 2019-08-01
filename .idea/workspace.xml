@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6aa90358-6b62-4f20-9127-c5e929ea504b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
               </folding>
@@ -92,47 +90,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvcdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvcdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,6 +287,7 @@
       <workItem from="1564368134526" duration="3675000" />
       <workItem from="1564385799067" duration="181000" />
       <workItem from="1564452295818" duration="3033000" />
+      <workItem from="1564640076428" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="demo.java">
       <created>1564368702674</created>
@@ -379,13 +338,20 @@
       <option name="project" value="LOCAL" />
       <updated>1564454526300</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="demo.java">
+      <created>1564640253880</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564640253880</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers>
       <Gitlab url="https://git.lug.ustc.edu.cn/tb55961097" />
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19121000" />
+    <option name="totallyTimeSpent" value="19705000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -399,7 +365,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2159383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.218509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -468,7 +434,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
           </folding>
