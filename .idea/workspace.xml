@@ -23,9 +23,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="60">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
               <folding>
+                <element signature="e#63#64#0" expanded="true" />
                 <element signature="e#106#107#0" expanded="true" />
               </folding>
             </state>
@@ -90,7 +91,17 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mvcdemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mvcdemo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,7 +298,7 @@
       <workItem from="1564368134526" duration="3675000" />
       <workItem from="1564385799067" duration="181000" />
       <workItem from="1564452295818" duration="3033000" />
-      <workItem from="1564640076428" duration="584000" />
+      <workItem from="1564640076428" duration="935000" />
     </task>
     <task id="LOCAL-00001" summary="demo.java">
       <created>1564368702674</created>
@@ -345,13 +356,27 @@
       <option name="project" value="LOCAL" />
       <updated>1564640253880</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="demo.java">
+      <created>1564640832375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564640832375</updated>
+    </task>
+    <task id="LOCAL-00010" summary="demo.java">
+      <created>1564640900132</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564640900132</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers>
       <Gitlab url="https://git.lug.ustc.edu.cn/tb55961097" />
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19705000" />
+    <option name="totallyTimeSpent" value="20056000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -382,7 +407,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994187" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994187" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3499327" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.33575583" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -433,9 +458,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        <state relative-caret-position="60">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding>
+            <element signature="e#63#64#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
           </folding>
         </state>
